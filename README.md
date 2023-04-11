@@ -6,7 +6,9 @@ Testing123 Hello
 
 Another new line
 
-<<<<<<< HEAD
+
 Hello again
 
+
+This change was made on new_line branch
 
